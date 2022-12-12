@@ -57,6 +57,38 @@ Developing confidence and security in a competitive, exponential and agile envir
 
 - _4th dimension: Achievement confidence_. It involves the skills that lead us to achieve extraordinary results. But when talking about trust, the ways to achieve them are as important as the results. Aimed at professionals who occupy leadership positions or who act as agents of motivation and engagement of people on a day-to-day basis, The trust factor will help you to find the way to become a true leader. [6]
 
+#### Psychological safety and Confidence
+
+In a study conducted by Google, the researchers had to determine how to quantitatively measure effectiveness. They looked at lines of code written, bugs fixed, customer satisfaction, and more. But Google’s leaders, who had initially pushed for objective effectiveness measures, realized that every suggested measure could be inherently flawed - **more lines of code aren’t necessarily a good thing and more bugs fixed means more bugs were initially created**. [7]
+
+Instead, the team decided to use a combination of qualitative assessments and quantitative measures. For qualitative assessments, the researchers captured input from three different perspectives - executives, team leads, and team members. While they all were asked to rate teams on similar scales, when asked to explain their ratings, their answers showed that each was focused on different aspects when assessing team effectiveness. [7]
+
+Executives were most concerned with results (e.g., sales numbers or product launches), but team members said that team culture was the most important measure of team effectiveness. Fittingly, the team lead’s concept of effectiveness spanned both the big picture and the individuals’ concerns saying that ownership, vision, and goals were the most important measures. [7]
+
+Using input from executives across the globe, the research team identified 180 teams to study (115 project teams in engineering and 65 pods in sales) which included a mix of high- and low-performing teams. The study tested how both team composition (e.g., personality traits, sales skills, demographics on the team) and team dynamics (e.g., what it was like to work with teammates) impact team effectiveness. Ideas were pulled from existing research as well as Google’s own experience with what makes an effective team. [7]
+
+They conducted hundreds of double-blind interviews with leaders to get a sense of what they thought drove team effectiveness. The researchers then looked at existing survey data, including over 250 items from the annual employee engagement survey and gDNA, Google’s longitudinal study on work and life, to see what variables might be related to effectiveness. [7]
+
+With all of this data, the team ran statistical models to understand which of the many inputs collected actually impacted team effectiveness. Using over 35 different statistical models on hundreds of variables, they sought to identify factors that: [7]
+
+- _impacted multiple outcome metrics, both qualitative and quantitative_
+- _surfaced for different kinds of teams across the organization_
+- _showed consistent, robust statistical significance_
+
+The researchers found that what really mattered was less about who is on the team, and more about how the team worked together. **In order of importance**: [7]
+
+- _Psychological safety_: Psychological safety refers to an individual’s perception of the consequences of taking an interpersonal risk or a belief that a team is safe for risk taking in the face of being seen as ignorant, incompetent, negative, or disruptive. In a team with high psychological safety, teammates feel safe to take risks around their team members. They feel confident that no one on the team will embarrass or punish anyone else for admitting a mistake, asking a question, or offering a new idea. [7]
+
+- _Dependability_: On dependable teams, members reliably complete quality work on time (vs the opposite - shirking responsibilities). [7]
+
+- _Structure and clarity_: An individual’s understanding of job expectations, the process for fulfilling these expectations, and the consequences of one’s performance are important for team effectiveness. Goals can be set at the individual or group level, and must be specific, challenging, and attainable. Google often uses Objectives and Key Results (OKRs) to help set and communicate short and long term goals. [7]
+
+- _Meaning_: Finding a sense of purpose in either the work itself or the output is important for team effectiveness. The meaning of work is personal and can vary: financial security, supporting family, helping the team succeed, or self-expression for each individual, for example. [7]
+
+- _Impact_: The results of one’s work, the subjective judgement that your work is making a difference, is important for teams. Seeing that one’s work is contributing to the organization’s goals can help reveal impact. [7]
+
+![google-rework-psychological-safety](https://user-images.githubusercontent.com/3407254/207102728-35478f25-6cc2-4dce-95d1-0d792e107102.png)
+
 ## Resources  <a name="resources"></a>
 ### Books
 - :white_check_mark: :fire: [The Effective Engineer | Edmond Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
@@ -82,6 +114,7 @@ Developing confidence and security in a competitive, exponential and agile envir
 - [DORA Metrics](https://www.devops-research.com/research.html?utm_source=cloud.google.com&utm_medium=referral)
 - [Google Guide to DORA metrics](https://cloud.google.com/architecture/devops)
 - [Improving Team Productivity by Reducing Context Switching](https://www.linkedin.com/pulse/improving-team-productivity-reducing-context-karen-casella/)
+- [Understand team effectiveness - Psychological safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/identify-dynamics-of-effective-teams/)
 
 ### Summary
 - [Summary from The Effective Engineer | Edmond Lau](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
@@ -118,6 +151,7 @@ Thanks goes to these people as well as our references.
 - [4] [Netflix Freedom & Responsibility culture](https://jobs.netflix.com/culture)
 - [5] [Improving Team Productivity by Reducing Context Switching](https://www.linkedin.com/pulse/improving-team-productivity-reducing-context-karen-casella/)
 - [6] [O Fator Confiança: a Base Para uma Liderança Extraordinária |  Marco Fabossi . Book. 1st edition - December 19, 2019](https://www.amazon.com.br/Fator-Confian%C3%A7a-Base-Lideran%C3%A7a-Extraordin%C3%A1ria/dp/8557173385)
+- [7] [Understand team effectiveness - Psychological safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/identify-dynamics-of-effective-teams/)
 
 ## Inspirations <a name="inspirations"></a>
 - :star: [OkayHQ Effective Engineer Handbook](https://github.com/OkayHQ/ee-handbook/blob/main/content/en/resources.md)
