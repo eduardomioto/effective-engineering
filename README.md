@@ -30,7 +30,7 @@ Managers should be held accountable for building productive teams. In particular
 
 As a manager, it can be hard to remember what it was like to need primarily Maker Time to succeed because a manager’s role can be significantly more interrupt-driven.  To be most effective engineers require large blocks of uninterrupted time and for them any interruptions are disproportionately costly. [3]
 
-### Reducing Interruptions
+#### Reducing Interruptions
 
 Software projects typically require engineers to have several concepts and context in their memory to make forward progress. A task might require you to read a ticket with requirements, look at log output, read related code before you're able to start making changes. Any interruption causes an expensive context switch that forces you to start this whole process over. [3] 
 
@@ -44,6 +44,18 @@ Because it takes time to get enough context to make forward progress on a task, 
 A very important component of the Netflix Freedom & Responsibility culture [4] is “Context, not Control”, in other words, “high performance people will do better work if they understand the context.” In practice, this means that if your team is aware of their purpose and how it aligns to the company’s and/or organization’s priorities, they will make good decisions and will accomplish great things, without a “helicopter manager” hovering over their heads and dictating everything that must be done.  When the team has the appropriate context, we trust them to make decisions that are in the best interest of Netflix. We provide team members the appropriate context around projects and priorities so that they can identify what’s most important in their queue of projects and tasks. [5]
 
 Adopt an OOPS rotation. Many teams (ours included) at Netflix subscribe to the “operate what you build” approach to DevOps. We use an OOPS (Operations, On-Call and Partner Support) rotation, whereby we have one member of the team on-call for a week at a time to handle all production issues, pipeline management, partner support questions and anything else out of the ordinary that arises.  This allows the other members of the team to focus on project work and avoid interruptions and context switching. We build the OOPS week into each person’s project schedule and the intent is that no project work is done during the week that someone is on-call. If the on-call person does happen to have excess bandwidth, we try to focus on paying off technical debt and ensuring alignment across the dozen or so services that we support. [5]
+
+### Confidence Factor
+
+Developing confidence and security in a competitive, exponential and agile environment is not an easy task. That's why Fabossi created the concept of the 4 dimensions, which will lead you and your team to the best results: [6]
+
+- _1st dimension: Self-confidence_. Since no one can give what they don't have, knowing and trusting yourself is the starting point for building trusting relationships, a journey that involves self-knowledge and authenticity. [6]
+
+- _2nd dimension: Personal trust_. Our actions need to be in line with our words. This dimension is linked to our ethics, our values and our principles, and is shown in the attitudes we take on a daily basis. [6]
+
+- _3rd dimension: Interpersonal trust_. We are relational beings, we live on relationships. Empathy, equity and genuine interest are fundamental ingredients for this dimension to be established. [6]
+
+- _4th dimension: Achievement confidence_. It involves the skills that lead us to achieve extraordinary results. But when talking about trust, the ways to achieve them are as important as the results. Aimed at professionals who occupy leadership positions or who act as agents of motivation and engagement of people on a day-to-day basis, The trust factor will help you to find the way to become a true leader. [6]
 
 ## Resources  <a name="resources"></a>
 ### Books
@@ -105,6 +117,7 @@ Thanks goes to these people as well as our references.
 - [3] [OkayHQ EE Handbook. Web. 12 Dec. 2022](https://www.okayhq.com/handbook/)
 - [4] [Netflix Freedom & Responsibility culture](https://jobs.netflix.com/culture)
 - [5] [Improving Team Productivity by Reducing Context Switching](https://www.linkedin.com/pulse/improving-team-productivity-reducing-context-karen-casella/)
+- [6] [O Fator Confiança: a Base Para uma Liderança Extraordinária |  Marco Fabossi . Book. 1st edition - December 19, 2019](https://www.amazon.com.br/Fator-Confian%C3%A7a-Base-Lideran%C3%A7a-Extraordin%C3%A1ria/dp/8557173385)
 
 ## Inspirations <a name="inspirations"></a>
 - :star: [OkayHQ Effective Engineer Handbook](https://github.com/OkayHQ/ee-handbook/blob/main/content/en/resources.md)
