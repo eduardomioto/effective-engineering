@@ -43,6 +43,10 @@ Because it takes time to get enough context to make forward progress on a task, 
 ### Books
 - :white_check_mark: :fire: [The Effective Engineer | Edmond Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
 - [Summary from The Effective Engineer | Edmond Lau](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations | Nicole Forsgren, Jez Humble and Gene Kim](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
+
+### Articles
+- [The SPACE of Developer Productivity | Nicole Forsgren et al](https://queue.acm.org/detail.cfm?id=3454124)
 
 ### Video
 - :white_check_mark: :fire: [The Effective Engineer | Edmond Lau | Talks at Google](https://www.youtube.com/watch?v=BnIz7H5ruy0)
@@ -50,8 +54,9 @@ Because it takes time to get enough context to make forward progress on a task, 
 
 ### Podcasts
 
-### Blogs
+### Blogs and Web Articles
 - :white_circle: [OkayHQ Effective Engineer Handbook](https://www.okayhq.com/handbook/)
+- [What is Developer Experience? a roundup of links and goodness | James Governor](https://redmonk.com/jgovernor/2022/02/21/what-is-developer-experience-a-roundup-of-links-and-goodness/)
 
 ### Tools
 
