@@ -50,6 +50,7 @@ Because it takes time to get enough context to make forward progress on a task, 
 ### Articles
 - [The SPACE of Developer Productivity | Nicole Forsgren et al](https://queue.acm.org/detail.cfm?id=3454124)
 
+
 ### Video
 - :white_check_mark: :fire: [The Effective Engineer | Edmond Lau | Talks at Google](https://www.youtube.com/watch?v=BnIz7H5ruy0)
 - :white_check_mark: :fire: [How to enter ‘flow state’ on command | Steven Kotler for Big Think ](https://youtu.be/znwUCNrjpD4)
@@ -59,6 +60,7 @@ Because it takes time to get enough context to make forward progress on a task, 
 ### Blogs and Web Articles
 - :white_circle: [OkayHQ Effective Engineer Handbook](https://www.okayhq.com/handbook/)
 - [What is Developer Experience? a roundup of links and goodness | James Governor](https://redmonk.com/jgovernor/2022/02/21/what-is-developer-experience-a-roundup-of-links-and-goodness/)
+- [Staff Engineer - Page](https://staffeng.com/guides)
 
 ### Summary
 - [Summary from The Effective Engineer | Edmond Lau](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
