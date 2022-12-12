@@ -106,6 +106,53 @@ In accordance with Edmond Lau [2][8]:
 - Prioritizing is difficult.
 - Prioritization is high leverage. It has huge impact on your ability to get right things done.
 
+### Engineer Accountability <a name="engineer-accountability"></a>
+
+#### Automatted Testing
+Invest time on Unit Testing [2][8]:
+- Unit test cases and some integration testing provide a scalable way of managing growing codebase.
+- A suite of extensive and automated tests can reduce overall error rates by validating the quality and by safeguarding against regressions.
+- Tests also allow engineers to make changes, especially large refactorings, with significantly higher confidence.
+- Despite its benefits, it can be difficult to foster a culture of automated testing.
+- Focus on high leverage tests.
+- Writing more tests, creating a virtuous feedback cycle and saving more development time.
+- Automated test cases lead to higher confidence when refactoring.
+- Write test cases when the code is fresh in mind.
+- Don’t be dogmatic about 100% code coverage.
+- Value of tests increases over time and cost to write goes down.
+
+#### Repay Technical Debt
+Invest time to Repay Technical Debt [2][8]:
+- Technical debt refers to all the deferred work that’s necessary to improve the health and quality of the codebase and that would slow us down if left unaddressed.
+- Accumulating technical debt is fine as far as it is repaid within time.
+- Refactor often.
+
+#### Reduce Operational Complexity
+Invest time to Reduce Operational Complexity [2][8]:
+- Keep no. of technologies low. Don’t sway towards shiny new technologies.
+- Every additional technology you add is is guaranteed to go wrong eventually. Will need your time.
+- Do the simple thing first.
+- Embrace operational simplicity.
+- The first solution that comes to mind is generally complex. Don't stop. Keep peeling off the layers of onion.
+- Simplify the architecture to reduce their operational burden.
+- “What’s the simplest solution that can get the job done while also reducing our future operational burden?”
+- Discipline to focus on simplicity is high leverage.
+
+### Lead Engineer Accountability <a name="lead-engineer-accountability"></a>
+Tips to Lead Engineer [2][8]:
+- Invest in your team's Growth
+- Invest in onboarding.
+- The higher you climb up the engineering ladder, the more your effectiveness will be measured not by your individual contributions but by your impact on the people around you.
+- "You’re a staff engineer if you’re making a whole team better than it would be otherwise. You’re a principal engineer if you’re making the whole company better than it would be otherwise. And you’re distinguished if you’re improving the industry.” ￼- Focus primarily on making everyone around you succeed.
+- Your career depends on your team's success.
+- Make hiring everyone's responsibility.
+- Shared ownership of code.
+- Keep bus factor more than one.
+- Shared ownership removes isolated silos of information.
+- Build collective wisdom through post mortems.
+- Hire the best.
+- Surround yourself with great advisors
+
 ## Resources  <a name="resources"></a>
 ### Books
 - :white_check_mark: :fire: [The Effective Engineer | Edmond Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
