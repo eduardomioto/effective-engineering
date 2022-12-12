@@ -7,10 +7,15 @@ A collaborative list of great resources about effective pratices on software eng
 *To a better understanding about the icons used on this page, you may be aware about some information: :white_check_mark: indicates an item already used and approved by our direct contributors, :ballot_box_with_check: indicates an item already checked by our partners and references, :white_circle: indicates an item that is relevant and has high amount of users however was not tested by us yet.* 
 
 ## Books
+- :white_check_mark: :fire: [The Effective Engineer - by Edmond Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
+
+## Video
 
 ## Podcasts
 
 ## Blogs
+- :white_circle: [OkayHQ Effective Engineer Handbook](https://www.okayhq.com/handbook/)
+
 
 ## Tools
 
