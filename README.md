@@ -89,6 +89,23 @@ The researchers found that what really mattered was less about who is on the tea
 
 ![google-rework-psychological-safety](https://user-images.githubusercontent.com/3407254/207102728-35478f25-6cc2-4dce-95d1-0d792e107102.png)
 
+### Product Manager Accountability <a name="product-manager-accountability"></a>
+
+#### Prioritize Regularly
+
+In accordance with Edmond Lau [2][8]:
+- Opportunity cost of working on wrong ideas can set back growth by years.
+- Prioritize tasks based on ROI.
+- Regular prioritization is high leverage activity.
+- Focus on what directly produces value.
+- Learn to say no.
+- Find ways to get into flow. “A state of effortless concentration so deep that they lose their sense of time, of themselves, of their problems.”
+- When possible, preserve larger blocks of focused time in the team schedule.
+- Limit the amount of Work in Progress.
+- Cost of context switching is high.
+- Prioritizing is difficult.
+- Prioritization is high leverage. It has huge impact on your ability to get right things done.
+
 ## Resources  <a name="resources"></a>
 ### Books
 - :white_check_mark: :fire: [The Effective Engineer | Edmond Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
@@ -152,6 +169,7 @@ Thanks goes to these people as well as our references.
 - [5] [Improving Team Productivity by Reducing Context Switching](https://www.linkedin.com/pulse/improving-team-productivity-reducing-context-karen-casella/)
 - [6] [O Fator Confiança: a Base Para uma Liderança Extraordinária |  Marco Fabossi . Book. 1st edition - December 19, 2019](https://www.amazon.com.br/Fator-Confian%C3%A7a-Base-Lideran%C3%A7a-Extraordin%C3%A1ria/dp/8557173385)
 - [7] [Understand team effectiveness - Psychological safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/identify-dynamics-of-effective-teams/)
+- [8] [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 
 ## Inspirations <a name="inspirations"></a>
 - :star: [OkayHQ Effective Engineer Handbook](https://github.com/OkayHQ/ee-handbook/blob/main/content/en/resources.md)
