@@ -61,11 +61,14 @@ Because it takes time to get enough context to make forward progress on a task, 
 - :white_circle: [OkayHQ Effective Engineer Handbook](https://www.okayhq.com/handbook/)
 - [What is Developer Experience? a roundup of links and goodness | James Governor](https://redmonk.com/jgovernor/2022/02/21/what-is-developer-experience-a-roundup-of-links-and-goodness/)
 - [Staff Engineer - Page](https://staffeng.com/guides)
+- [DORA Metrics](https://www.devops-research.com/research.html?utm_source=cloud.google.com&utm_medium=referral)
+- [Google Guide to DORA metrics](https://cloud.google.com/architecture/devops)
 
 ### Summary
 - [Summary from The Effective Engineer | Edmond Lau](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 
 ### Tools
+- [DORA Metrics on Google Cloud Platform](https://github.com/GoogleCloudPlatform/fourkeys)
 
 ## Contributors ✨  <a name="contributors"></a>
 
