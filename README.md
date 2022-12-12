@@ -42,8 +42,10 @@ Because it takes time to get enough context to make forward progress on a task, 
 ## Resources  <a name="resources"></a>
 ### Books
 - :white_check_mark: :fire: [The Effective Engineer | Edmond Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
-- [Summary from The Effective Engineer | Edmond Lau](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations | Nicole Forsgren, Jez Humble and Gene Kim](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
+- [Staff Engineer: Leadership beyond the management track | Will Larson ](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG/ref=d_dccs_mdi_sccl_2_4/146-6503296-9811631?pd_rd_w=pkplP&content-id=amzn1.sym.bd415a11-8cc5-4919-ad94-5fb4ec1e70df&pf_rd_p=bd415a11-8cc5-4919-ad94-5fb4ec1e70df&pf_rd_r=HKVZA6AV1SA0XHPAXB2M&pd_rd_wg=2WNLY&pd_rd_r=0a7122ea-f5bc-48bb-bfe8-5d3487dad31e&pd_rd_i=B08RMSHYGG&psc=1)
+- [An Elegant Puzzle: Systems of Engineering Management | Will Larson](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V/ref=d_dccs_mdi_sccl_2_5/146-6503296-9811631?pd_rd_w=pkplP&content-id=amzn1.sym.bd415a11-8cc5-4919-ad94-5fb4ec1e70df&pf_rd_p=bd415a11-8cc5-4919-ad94-5fb4ec1e70df&pf_rd_r=HKVZA6AV1SA0XHPAXB2M&pd_rd_wg=2WNLY&pd_rd_r=0a7122ea-f5bc-48bb-bfe8-5d3487dad31e&pd_rd_i=B07QYCHJ7V&psc=1)
+- [Team Topologies: Organizing Business and Technology Teams for Fast Flow | Matthew Skelton, Manuel Pais](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B09JWT9S4D/ref=d_dccs_mdi_sccl_1_16/146-6503296-9811631?pd_rd_w=6XTqm&content-id=amzn1.sym.bd415a11-8cc5-4919-ad94-5fb4ec1e70df&pf_rd_p=bd415a11-8cc5-4919-ad94-5fb4ec1e70df&pf_rd_r=R5CQANY8T8QQTNCW2YKV&pd_rd_wg=HdTug&pd_rd_r=dff3ecc6-6304-4e13-843b-3bf348877480&pd_rd_i=B09JWT9S4D&psc=1)
 
 ### Articles
 - [The SPACE of Developer Productivity | Nicole Forsgren et al](https://queue.acm.org/detail.cfm?id=3454124)
@@ -57,6 +59,9 @@ Because it takes time to get enough context to make forward progress on a task, 
 ### Blogs and Web Articles
 - :white_circle: [OkayHQ Effective Engineer Handbook](https://www.okayhq.com/handbook/)
 - [What is Developer Experience? a roundup of links and goodness | James Governor](https://redmonk.com/jgovernor/2022/02/21/what-is-developer-experience-a-roundup-of-links-and-goodness/)
+
+### Summary
+- [Summary from The Effective Engineer | Edmond Lau](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 
 ### Tools
 
