@@ -1,4 +1,4 @@
-# effective-engineer  ![GitHub](https://img.shields.io/github/license/eduardomioto/effective-engineer?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/eduardomioto/effective-engineer?color=%232E8DCD&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/eduardomioto/effective-engineer?style=flat-square)
+# Effective Engineer  ![GitHub](https://img.shields.io/github/license/eduardomioto/effective-engineer?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/eduardomioto/effective-engineer?color=%232E8DCD&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/eduardomioto/effective-engineer?style=flat-square)
 
 A collaborative list of great resources about effective pratices on software enginering. Feel free to contribute to this on-going list. :hand:
 
@@ -10,6 +10,7 @@ A collaborative list of great resources about effective pratices on software eng
 - :white_check_mark: :fire: [The Effective Engineer - by Edmond Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
 
 ## Video
+- :white_check_mark: :fire: [The Effective Engineer | Edmond Lau | Talks at Google )(https://www.youtube.com/watch?v=BnIz7H5ruy0)
 
 ## Podcasts
 
