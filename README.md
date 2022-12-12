@@ -10,7 +10,7 @@ A collaborative list of great resources about effective pratices on software eng
 - :white_check_mark: :fire: [The Effective Engineer - by Edmond Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
 
 ## Video
-- :white_check_mark: :fire: [The Effective Engineer | Edmond Lau | Talks at Google )(https://www.youtube.com/watch?v=BnIz7H5ruy0)
+- :white_check_mark: :fire: [The Effective Engineer | Edmond Lau | Talks at Google](https://www.youtube.com/watch?v=BnIz7H5ruy0)
 
 ## Podcasts
 
