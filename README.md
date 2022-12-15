@@ -24,6 +24,8 @@ However, the software industry has a different approach to define Effectiveness.
 
 Measuring and improving engineering effectiveness is a precondition to building a healthy engineering team: attracting talent, building an efficient system where they can produce their best work, and retaining that talent. What teams do with their time is the primary factor in determining its output. Even if you hire the best engineers, if they spend all their time on the wrong things, or they’re constantly interrupted while trying to do the right things, the team won’t succeed. [3]
 
+There is also agreement that developer productivity is necessary not just to improve engineering outcomes, but also to ensure the well-being and satisfaction of developers, as productivity and satisfaction are intricately connected. [9] [10] [11]
+
 ### Managerial Accountability <a name="managerial-accountability"></a>
 
 Managers should be held accountable for building productive teams. In particular, managers should both provide a system to measure productivity and lead the changes that need to happen. [3]
@@ -163,7 +165,8 @@ Tips to Lead Engineer [2][8]:
 
 ### Articles
 - [The SPACE of Developer Productivity | Nicole Forsgren et al](https://queue.acm.org/detail.cfm?id=3454124)
-
+- [Happiness and the productivity of software engineers. In Rethinking Productivity in Software Engineering, ed. C. Sadowski and T. Zimmermann, 109-124](https://link.springer.com/chapter/10.1007/978-1-4842-4221-6_10)
+- [Towards a theory of software developer job satisfaction and perceived productivity. Storey, M. A., Zimmermann, T., Bird, C., Czerwonka, J., Murphy, B., Kalliamvakou, E. 2019](https://ieeexplore.ieee.org/document/8851296)
 
 ### Video
 - :white_check_mark: :fire: [The Effective Engineer | Edmond Lau | Talks at Google](https://www.youtube.com/watch?v=BnIz7H5ruy0)
@@ -219,6 +222,9 @@ Thanks goes to these people as well as our references.
 - [6] [O Fator Confiança: a Base Para uma Liderança Extraordinária |  Marco Fabossi . Book. 1st edition - December 19, 2019](https://www.amazon.com.br/Fator-Confian%C3%A7a-Base-Lideran%C3%A7a-Extraordin%C3%A1ria/dp/8557173385)
 - [7] [Understand team effectiveness - Psychological safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/identify-dynamics-of-effective-teams/)
 - [8] [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+- [9] [The SPACE of Developer Productivity | Nicole Forsgren et al](https://queue.acm.org/detail.cfm?id=3454124)
+- [10] [Happiness and the productivity of software engineers. In Rethinking Productivity in Software Engineering, ed. C. Sadowski and T. Zimmermann, 109-124](https://link.springer.com/chapter/10.1007/978-1-4842-4221-6_10)
+- [11] [Towards a theory of software developer job satisfaction and perceived productivity. Storey, M. A., Zimmermann, T., Bird, C., Czerwonka, J., Murphy, B., Kalliamvakou, E. 2019](https://ieeexplore.ieee.org/document/8851296)
 
 ## Inspirations <a name="inspirations"></a>
 - :star: [OkayHQ Effective Engineer Handbook](https://github.com/OkayHQ/ee-handbook/blob/main/content/en/resources.md)
