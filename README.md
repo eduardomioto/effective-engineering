@@ -228,7 +228,7 @@ At the team and system level, efficiency is related to value-stream mapping, whi
 
 
 ## Additional Resources <a name="resources"></a>
-- [Additional Resources](https://github.com/eduardomioto/effective-engineering/blob/main/RESOURCES.md)
+- [Collaborative Additional Resources](https://github.com/eduardomioto/effective-engineering/blob/main/RESOURCES.md)
 
 ## Contributors ✨  <a name="contributors"></a>
 
