@@ -151,6 +151,69 @@ Tips to Lead Engineer [2][8]:
 - Hire the best.
 - Surround yourself with great advisors
 
+## Frameworks about Engineering Effectiveess
+
+### SPACE: A Framework for Understanding Developer Productivity
+
+Productivity is about more than the individual or the engineering systems; it cannot be measured by a single metric or activity data alone; and it isn't something that only managers care about. The SPACE framework was developed to capture different dimensions of productivity because without it, the myths just presented will persist. The framework provides a way to think rationally about productivity in a much bigger space and to choose metrics carefully in a way that reveals not only what those metrics mean, but also what their limitations are if used alone or in the wrong context. [9]
+
+- S: Satisfaction and well-being
+- P: Performance
+- A: Activity
+- C: Communication and collaboration
+- E: Efficiency and flow
+
+#### Satisfaction and well-being
+
+Productivity and satisfaction are correlated, and it is possible that satisfaction could serve as a leading indicator for productivity; a decline in satisfaction and engagement could signal upcoming burnout and reduced productivity. [9]
+
+It is clear that satisfaction and well-being are important dimensions of productivity. These qualities are often best captured with surveys. To assess the satisfaction dimension, you might measure the following: [9]
+
+- Employee satisfaction. The degree of satisfaction among employees, and whether they would recommend their team to others.
+- Developer efficacy. Whether developers have the tools and resources they need to get their work done.
+- Burnout. Exhaustion caused by excessive and prolonged workplace stress.
+
+#### Performance
+
+Performance is often best evaluated as outcomes instead of output. The most simplified view of software developer performance could be, Did the code written by the developer reliably do what it was supposed to do? Example metrics to capture the performance dimension include: [9]
+
+- Quality. Reliability, absence of bugs, ongoing service health.
+- Impact. Customer satisfaction, customer adoption and retention, feature usage, cost reduction.
+
+#### Activity
+
+A well-designed engineering system, will help in capturing activity metrics along different phases of the software development life cycle and quantify developer activity at scale. Some of the developer activities that can be measured and quantified relatively easily are: [9]
+
+- Design and coding. Volume or count of design documents and specs, work items, pull requests, commits, and code reviews.
+- Continuous integration and deployment. Count of build, test, deployment/release, and infrastructure utilization.
+- Operational activity. Count or volume of incidents/issues and distribution based on their severities, on-call participation, and incident mitigation.
+
+#### Communication and collaboration
+
+Communication and collaboration capture how people and teams communicate and work together. Software development is a collaborative and creative task that relies on extensive and effective communication, coordination, and collaboration within and between teams. Effective teams that successfully contribute to and integrate each other's work efficiently rely on high transparency5 and awareness6 of team member activities and task priorities. In addition, how information flows within and across teams impacts the availability and discoverability of documentation that is needed for the effective alignment and integration of work. [9]
+
+Understanding and measuring team productivity and team member expectations are, however, complicated because of items that are difficult to measure such as invisible work and articulation work for coordinating and planning team tasks.18 That said, the following are examples of metrics that may be used as proxies to measure communication, collaboration, and coordination: [9]
+
+- Discoverability of documentation and expertise. 
+- How quickly work is integrated.
+- Quality of reviews of work contributed by team members.
+- Network metrics that show who is connected to whom and how.
+- Onboarding time for and experience of new members.
+
+Some example metrics to capture the efficiency and flow dimension are: [9]
+- Number of handoffs in a process; number of handoffs across different teams in a process.
+- Perceived ability to stay in flow and complete work.
+- Interruptions: quantity, timing, how spaced, impact on development work and flow.
+- Time measures through a system: total time, value-added time, wait time.
+
+#### Efficiency and flow
+
+Finally, efficiency and flow capture the ability to complete work or make progress on it with minimal interruptions or delays, whether individually or through a system. This can include how well activities within and across teams are orchestrated and whether continuous progress is being made.
+
+This conceptualization of productivity is echoed by many developers when they talk about "getting into the flow" when doing their work—or the difficulty in finding and optimizing for it, with many books and discussions addressing how this positive state can be achieved in a controlled way. For individual efficiency (flow), it's important to set boundaries to get productive and stay productive—for example, by blocking off time for a focus period. Individual efficiency is often measured by uninterrupted focus time or the time within value-creating apps (e.g., the time a developer spends in the integrated development environment is likely to be considered "productive" time).
+
+At the team and system level, efficiency is related to value-stream mapping, which captures the steps needed to take software from idea and creation to delivering it to the end customer. To optimize the flow in the value stream, it is important to minimize delays and handoffs. 
+
 ## Contributors ✨  <a name="contributors"></a>
 
 Thanks goes to these people as well as our references.
