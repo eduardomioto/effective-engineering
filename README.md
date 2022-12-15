@@ -3,13 +3,25 @@
 
 ## Table of Contents
 1. [The Effective Engineering](#effective-engineering)
-    1. [Introduction](#introduction)
-    2. [Managerial Accountability](#managerial-accountability)
-3. [Resources](#resources)
-4. [Contributors](#contributors)
-5. [References](#references)
-6. [Inspirations](#inspirations)
-6. [Resources](#resources)
+2. [Managerial Accountability](#managerial-accountability)
+    1. [Reducing Interruptions](#reducing-interruptions)
+    2. [Flow State](#flow-state)
+    3. [Possible Solutions](#possible-solutions)
+3. [Confidence Factor](#confidence-factor)
+    1. [Psychological safety and Confidence](#psychological-safety)
+4. [Product Manager Accountability](#product-manager-accountability)
+    1. [Prioritize Regularly](#prioritize-regularly)
+5. [Engineer Accountability](#engineer-accountability)
+    1. [Automated Testing](#automated-testing)
+    2. [Repay Technical Debt](#repay-technical-debt)
+    3. [Reduce Operational Complexity](#reduce-operational-complexity)
+6. [Lead Engineer Accountability](#lead-engineer-accountability)
+7. [Frameworks about Engineering Effectiveness](#frameworks)
+    1. [SPACE: A Framework for Understanding Developer Productivity](#space-framework)
+8. [Resources](#resources)
+9. [Contributors](#contributors)
+10. [References](#references)
+11. [Inspirations](#inspirations)
 
 
 ## The Effective Engineering <a name="effective-engineering"></a>
@@ -22,28 +34,28 @@ Measuring and improving engineering effectiveness is a precondition to building 
 
 There is also agreement that developer productivity is necessary not just to improve engineering outcomes, but also to ensure the well-being and satisfaction of developers, as productivity and satisfaction are intricately connected. [9] [10] [11]
 
-### Managerial Accountability <a name="managerial-accountability"></a>
+## Managerial Accountability <a name="managerial-accountability"></a>
 
 Managers should be held accountable for building productive teams. In particular, managers should both provide a system to measure productivity and lead the changes that need to happen. [3]
 
 As a manager, it can be hard to remember what it was like to need primarily Maker Time to succeed because a manager’s role can be significantly more interrupt-driven.  To be most effective engineers require large blocks of uninterrupted time and for them any interruptions are disproportionately costly. [3]
 
-#### Reducing Interruptions
+#### Reducing Interruptions <a name="reducing-interruptions"></a>
 
 Software projects typically require engineers to have several concepts and context in their memory to make forward progress. A task might require you to read a ticket with requirements, look at log output, read related code before you're able to start making changes. Any interruption causes an expensive context switch that forces you to start this whole process over. [3] 
 
-#### Flow State
+#### Flow State <a name="flow-state"></a>
 Flow state or being in the zone means having no worries about imminent interruptions - you’re fully in the moment and at your most productive. Fragmentation and interruptions kill flow state because context switching is so expensive for engineers. This state is typically where the most work gets done and it’s when the hardest problems can get solved. [3]
 
 Because it takes time to get enough context to make forward progress on a task, we’ve found that the minimum unit of time that allows for flow state is 2 hours. Two hours of uninterrupted time is called Maker Time. It is certainly possible to achieve flow state in shorter periods of time but that’s typically an exception. Periods longer than 2 hours can also lead to higher quality flow states. [3]
 
-#### Possible Solutions
+#### Possible Solutions <a name="possible-solutions"></a>
 
 A very important component of the Netflix Freedom & Responsibility culture [4] is “Context, not Control”, in other words, “high performance people will do better work if they understand the context.” In practice, this means that if your team is aware of their purpose and how it aligns to the company’s and/or organization’s priorities, they will make good decisions and will accomplish great things, without a “helicopter manager” hovering over their heads and dictating everything that must be done.  When the team has the appropriate context, we trust them to make decisions that are in the best interest of Netflix. We provide team members the appropriate context around projects and priorities so that they can identify what’s most important in their queue of projects and tasks. [5]
 
 Adopt an OOPS rotation. Many teams (ours included) at Netflix subscribe to the “operate what you build” approach to DevOps. We use an OOPS (Operations, On-Call and Partner Support) rotation, whereby we have one member of the team on-call for a week at a time to handle all production issues, pipeline management, partner support questions and anything else out of the ordinary that arises.  This allows the other members of the team to focus on project work and avoid interruptions and context switching. We build the OOPS week into each person’s project schedule and the intent is that no project work is done during the week that someone is on-call. If the on-call person does happen to have excess bandwidth, we try to focus on paying off technical debt and ensuring alignment across the dozen or so services that we support. [5]
 
-### Confidence Factor
+## Confidence Factor <a name="confidence-factor"></a>
 
 Developing confidence and security in a competitive, exponential and agile environment is not an easy task. That's why Fabossi created the concept of the 4 dimensions, which will lead you and your team to the best results: [6]
 
@@ -55,7 +67,7 @@ Developing confidence and security in a competitive, exponential and agile envir
 
 - _4th dimension: Achievement confidence_. It involves the skills that lead us to achieve extraordinary results. But when talking about trust, the ways to achieve them are as important as the results. Aimed at professionals who occupy leadership positions or who act as agents of motivation and engagement of people on a day-to-day basis, The trust factor will help you to find the way to become a true leader. [6]
 
-#### Psychological safety and Confidence
+### Psychological safety and Confidence <a name="psychological-safety"></a>
 
 In a study conducted by Google, the researchers had to determine how to quantitatively measure effectiveness. They looked at lines of code written, bugs fixed, customer satisfaction, and more. But Google’s leaders, who had initially pushed for objective effectiveness measures, realized that every suggested measure could be inherently flawed - **more lines of code aren’t necessarily a good thing and more bugs fixed means more bugs were initially created**. [7]
 
@@ -87,9 +99,9 @@ The researchers found that what really mattered was less about who is on the tea
 
 ![google-rework-psychological-safety](https://user-images.githubusercontent.com/3407254/207102728-35478f25-6cc2-4dce-95d1-0d792e107102.png)
 
-### Product Manager Accountability <a name="product-manager-accountability"></a>
+## Product Manager Accountability <a name="product-manager-accountability"></a>
 
-#### Prioritize Regularly
+### Prioritize Regularly <a name="prioritize-regularly"></a>
 
 In accordance with Edmond Lau [2][8]:
 - Opportunity cost of working on wrong ideas can set back growth by years.
@@ -104,9 +116,9 @@ In accordance with Edmond Lau [2][8]:
 - Prioritizing is difficult.
 - Prioritization is high leverage. It has huge impact on your ability to get right things done.
 
-### Engineer Accountability <a name="engineer-accountability"></a>
+## Engineer Accountability <a name="engineer-accountability"></a>
 
-#### Automatted Testing
+### Automated Testing <a name="automated-testing"></a>
 Invest time on Unit Testing [2][8]:
 - Unit test cases and some integration testing provide a scalable way of managing growing codebase.
 - A suite of extensive and automated tests can reduce overall error rates by validating the quality and by safeguarding against regressions.
@@ -119,13 +131,13 @@ Invest time on Unit Testing [2][8]:
 - Don’t be dogmatic about 100% code coverage.
 - Value of tests increases over time and cost to write goes down.
 
-#### Repay Technical Debt
+### Repay Technical Debt <a name="repay-technical-debt"></a>
 Invest time to Repay Technical Debt [2][8]:
 - Technical debt refers to all the deferred work that’s necessary to improve the health and quality of the codebase and that would slow us down if left unaddressed.
 - Accumulating technical debt is fine as far as it is repaid within time.
 - Refactor often.
 
-#### Reduce Operational Complexity
+### Reduce Operational Complexity <a name="reduce-operational-complexity"></a>
 Invest time to Reduce Operational Complexity [2][8]:
 - Keep no. of technologies low. Don’t sway towards shiny new technologies.
 - Every additional technology you add is is guaranteed to go wrong eventually. Will need your time.
@@ -136,7 +148,7 @@ Invest time to Reduce Operational Complexity [2][8]:
 - “What’s the simplest solution that can get the job done while also reducing our future operational burden?”
 - Discipline to focus on simplicity is high leverage.
 
-### Lead Engineer Accountability <a name="lead-engineer-accountability"></a>
+## Lead Engineer Accountability <a name="lead-engineer-accountability"></a>
 Tips to Lead Engineer [2][8]:
 - Invest in your team's Growth
 - Invest in onboarding.
@@ -151,9 +163,9 @@ Tips to Lead Engineer [2][8]:
 - Hire the best.
 - Surround yourself with great advisors
 
-## Frameworks about Engineering Effectiveess
+## Frameworks about Engineering Effectiveness <a name="frameworks"></a>
 
-### SPACE: A Framework for Understanding Developer Productivity
+### SPACE: A Framework for Understanding Developer Productivity <a name="space-framework"></a>
 
 Productivity is about more than the individual or the engineering systems; it cannot be measured by a single metric or activity data alone; and it isn't something that only managers care about. The SPACE framework was developed to capture different dimensions of productivity because without it, the myths just presented will persist. The framework provides a way to think rationally about productivity in a much bigger space and to choose metrics carefully in a way that reveals not only what those metrics mean, but also what their limitations are if used alone or in the wrong context. [9]
 
@@ -214,6 +226,10 @@ This conceptualization of productivity is echoed by many developers when they ta
 
 At the team and system level, efficiency is related to value-stream mapping, which captures the steps needed to take software from idea and creation to delivering it to the end customer. To optimize the flow in the value stream, it is important to minimize delays and handoffs. 
 
+
+## Additional Resources <a name="resources"></a>
+- [Additional Resources](https://github.com/eduardomioto/effective-engineering/blob/main/RESOURCES.md)
+
 ## Contributors ✨  <a name="contributors"></a>
 
 Thanks goes to these people as well as our references.
@@ -252,7 +268,4 @@ Thanks goes to these people as well as our references.
 ## Inspirations <a name="inspirations"></a>
 - :star: [OkayHQ Effective Engineer Handbook](https://github.com/OkayHQ/ee-handbook/blob/main/content/en/resources.md)
 - [Team Topologies Book - References](https://github.com/TeamTopologies/Team-Topologies-Book-References/blob/main/Team-Topologies-references-Markdown.md)
-
-## Additional Resources <a name="resources"></a>
-- [Additional Resources](https://github.com/eduardomioto/effective-engineering/blob/main/RESOURCES.md)
 
