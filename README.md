@@ -170,6 +170,7 @@ Tips to Lead Engineer [2][8]:
 - :white_check_mark: :fire: [How to enter ‘flow state’ on command | Steven Kotler for Big Think ](https://youtu.be/znwUCNrjpD4)
 
 ### Podcasts
+- [Harsh Sinha on Building Culture at TransferWise](https://www.infoq.com/podcasts/Harsh-Sinha-transferwise-building-culture/)
 
 ### Blogs and Web Articles
 - :white_circle: [OkayHQ Effective Engineer Handbook](https://www.okayhq.com/handbook/)
