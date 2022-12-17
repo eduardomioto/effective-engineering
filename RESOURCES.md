@@ -43,6 +43,24 @@ A collaborative page about effective pratices on software enginering. Feel free 
 ### Tools
 - [DORA Metrics on Google Cloud Platform](https://github.com/GoogleCloudPlatform/fourkeys)
 
+
+### Under Validation
+- https://www.infoq.com/podcasts/developer-effectiveness/
+- https://www.infoq.com/articles/developer-effectiveness-feedback/
+- https://about.sourcegraph.com/blog/developer-productivity-thoughts
+- https://www.thoughtworks.com/insights/podcasts/technology-podcasts/developer-effectiveness
+- https://abinoda.substack.com/p/maximizing-developer-effectiveness
+- https://martinfowler.com/articles/developer-effectiveness.html
+- https://abinoda.substack.com/p/maximizing-developer-effectiveness
+- https://www.google.com/search?q=Developer+Effectiveness&oq=Developer+Effectiveness&aqs=chrome..69i57j69i64l2j69i61l2.111j0j7&sourceid=chrome&ie=UTF-8
+- https://www.infoq.com/news/2012/10/Prezi-lean-startup/
+- https://12devsofxmas.co.uk/2015/12/day-3-managing-cognitive-load-for-team-learning/
+- https://www.infoq.com/presentations/twilio-devops/
+- https://onlinelibrary.wiley.com/doi/10.1002/job.387
+
+
+
+
 ## Contributors ✨  <a name="contributors"></a>
 
 Thanks goes to these people as well as our references.
