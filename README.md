@@ -137,6 +137,21 @@ Invest time to Repay Technical Debt [2][8]:
 - Accumulating technical debt is fine as far as it is repaid within time.
 - Refactor often.
 
+#### The 6 Types of Technical Debt
+Tech debt often falls under one enormous umbrella term that includes everything from latency speeds, to security vulnerabilities, to refactoring, to much more. Instead of the umbrella term, you need to understand the different types of technical debt you might be taking on to use it is a strategy lever. This classification will help individuals across the organization better understand what type of tech debt is at hand and what's involved, as opposed to talking ambiguously about 'tech debt.' [12]
+
+The 6 key types of technical debt that teams encounter are: [12]
+- Maintenance debt
+- Developer efficiency debt
+- Stability debt
+- Security debt
+- Technical product debt
+- Decision debt
+
+![image](https://user-images.githubusercontent.com/3407254/208244652-1f57bc60-279a-4001-a5e0-86377c21dd0a.png)
+
+Note that a piece of tech debt can fall across more than a single category, making it a potentially more critical piece of work to address. [12]
+
 ### Reduce Operational Complexity <a name="reduce-operational-complexity"></a>
 Invest time to Reduce Operational Complexity [2][8]:
 - Keep no. of technologies low. Don’t sway towards shiny new technologies.
@@ -264,6 +279,7 @@ Thanks goes to these people as well as our references.
 - [9] [The SPACE of Developer Productivity | Nicole Forsgren et al](https://queue.acm.org/detail.cfm?id=3454124)
 - [10] [Happiness and the productivity of software engineers. In Rethinking Productivity in Software Engineering, ed. C. Sadowski and T. Zimmermann, 109-124](https://link.springer.com/chapter/10.1007/978-1-4842-4221-6_10)
 - [11] [Towards a theory of software developer job satisfaction and perceived productivity. Storey, M. A., Zimmermann, T., Bird, C., Czerwonka, J., Murphy, B., Kalliamvakou, E. 2019](https://ieeexplore.ieee.org/document/8851296)
+- [12] [Reforge - Managing Tech Debt](https://www.reforge.com/blog/managing-tech-debt)
 
 ## Inspirations <a name="inspirations"></a>
 - :star: [OkayHQ Effective Engineer Handbook](https://github.com/OkayHQ/ee-handbook/blob/main/content/en/resources.md)
