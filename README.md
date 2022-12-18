@@ -152,6 +152,44 @@ The 6 key types of technical debt that teams encounter are: [12]
 
 Note that a piece of tech debt can fall across more than a single category, making it a potentially more critical piece of work to address. [12]
 
+##### Maintenance debt
+When teams don't keep up with updates to tech work. This includes not deleting dead code at the right time after an experiment launch / feature rollout / unshipping event, updating libraries, commenting on pieces of code for context, and documenting implementation decisions. [12]
+
+##### Developer efficiency debt
+When companies do not have the right tests, monitoring, and/or alerting in place on the product. This is a common type of debt, where engineering workflows are highly inefficient, deployment and build times can take several hours or days, and developers lack the tools that allow them to detect technical issues before they go live in production. [12]
+
+##### Stability debt
+When an org builds up different types of technical debt, which then affects the stability of their infrastructure. This leads to scenarios where instead of proactively managing on-call, you have to reactively manage on-call by pulling in subject matter experts or, really, indirectly having the entire team on-call. This becomes quite an intense pain point for the engineers and on-call rotation team, but the rest of the company cannot grasp the issue to explain it well. Stability debt can also impact the reliability of the product, making it a customer-facing issue as well. [12]
+
+##### Security Debt
+When there are issues in the tech stack that leaves the company open to security vulnerabilities like brute forcing password info, data breaches, or competitors knowing how to collect confidential information. Since humans have trouble planning and evaluating hypotheticals that may (or may not) happen, this results in most orgs having significant security debt. [12]
+
+##### Technical product debt
+When there is visible negative product impact. This work is easiest and most compelling to address, since it has evident impacts to users and is outwardly facing so any team at the organization can see the repercussions to customers and sales/revenue. [12]
+
+##### Decision debt
+What this is = When a past technical decision was made that was X% wrong or had some tradeoffs on scope, time, or resources, and the team is now paying for that decision. **This is typically the most common form of tech debt**. [12]
+
+#### Prioritizing Tech Debt Strategically
+So far, we've gone through assumptions, classifications, and sizing in relation to tech debt. Once you understand those things you can make a strategic decision within the broader context of your product decisions. [12]
+
+![image](https://user-images.githubusercontent.com/3407254/208305681-0fd1697f-9fdf-4e69-bb43-ad117da54b0d.png)
+
+##### Strategic Tech Debt Portfolio, Based On Company Growth Stage
+
+Another way to approach tech debt strategically is crafting your tech debt portfolio based on tech debt type in relation to your organization's size. Here at Reforge, we classify companies as they go through four stages of growth on the S-curve: [12]
+![image](https://user-images.githubusercontent.com/3407254/208305760-c7e5fe01-a8f7-4577-9c09-bd02a9d13001.png)
+
+- Traction = Bottom of the S-curve, pre-product market fit. Linear, unscalable efforts to get the growth engine going.
+- Inflection = Bend in the S-curve, clear signals of product market fit on a small scale. Transitioning from unscalable to scalable growth loops.
+- Scale = Hyper growth part of the S-curve. Optimizing core growth loops. Doubling down on what works.
+- Expansion = Approaching top of the S-curve, saturation starts to hit. Need to think about PMF expansion and restarting the process all over again or layering on a new growth loop.
+
+Related to the S-curve, each type of tech debt should be balanced appropriately based on the company's stage of growth. Represented visually below are guidelines to consider, for the distribution of tech debt (by type of tech debt) as an organization progresses over time. [12]
+
+![image](https://user-images.githubusercontent.com/3407254/208305778-8bd77d4a-7442-4026-b052-2ad24e2ed1d5.png)
+
+
 ### Reduce Operational Complexity <a name="reduce-operational-complexity"></a>
 Invest time to Reduce Operational Complexity [2][8]:
 - Keep no. of technologies low. Don’t sway towards shiny new technologies.
