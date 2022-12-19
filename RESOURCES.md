@@ -42,7 +42,8 @@ A collaborative page about effective pratices on software enginering. Feel free 
 
 ### Tools
 - [DORA Metrics on Google Cloud Platform](https://github.com/GoogleCloudPlatform/fourkeys)
-
+- [DORA Metrics - Sleuth.io](https://www.sleuth.io/integrations)
+     - [Live Dashboard](https://app.sleuth.io/sleuth/search)
 
 ### Under Validation
 - https://www.infoq.com/podcasts/developer-effectiveness/
