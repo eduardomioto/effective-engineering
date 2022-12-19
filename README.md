@@ -18,10 +18,12 @@
 6. [Lead Engineer Accountability](#lead-engineer-accountability)
 7. [Frameworks about Engineering Effectiveness](#frameworks)
     1. [SPACE: A Framework for Understanding Developer Productivity](#space-framework)
-8. [Resources](#resources)
-9. [Contributors](#contributors)
-10. [References](#references)
-11. [Inspirations](#inspirations)
+8. [Supportive Metrics](#supportive)
+   1. [DORA Metrics](#dora)
+10. [Resources](#resources)
+11. [Contributors](#contributors)
+12. [References](#references)
+13. [Inspirations](#inspirations)
 
 
 ## The Effective Engineering <a name="effective-engineering"></a>
@@ -279,6 +281,47 @@ This conceptualization of productivity is echoed by many developers when they ta
 
 At the team and system level, efficiency is related to value-stream mapping, which captures the steps needed to take software from idea and creation to delivering it to the end customer. To optimize the flow in the value stream, it is important to minimize delays and handoffs. 
 
+## Supportive Metrics <a name="supportive"></a>
+
+### DORA Metrics <a name="dora"></a>
+DORA metrics come from an organization called DevOps Research and Assessment. This was a team put together by Google to survey thousands of development teams across multiple industries, to try to understand what makes a high performing team different than a low performing team. DORA metrics are also known as Accelerate metrics, thanks to the popular book "Accelerate: The Science of Lean Software and DevOps" by Nicole Forsgren [14], founder of DORA, Jez Humble, and Gene Kim. [13]
+
+These are the four metrics:
+- Deployment Frequency
+- Change Lead Time 
+- Change Failure Rate 
+- Mean Time to Recovery (MTTR)
+
+#### Deployment Frequency <a name="dora-deployment-frequency"></a>
+
+Deployment frequency is very important. In fact, it's usually the first place teams start with DORA metrics. What you're doing is you're measuring how many times you change production. The goal of delivering code quickly to production is to ship as many times as possible. In order to make that work, you need to change the batch size to be as small as possible. In other words, ship as few changes to production at a time as you can.
+
+Technically, what you want to do here is you want to ship each pull request or individual change to a production at a time. That works great for smaller teams, but it doesn't always work for a bigger team. For example, if you're a big team on say a monolith, what you want to do is a technique called release train, where you ship to production in fixed intervals throughout the day. Again, your goal is to minimize the batch size as much as possible to reduce your overall risk and increase your deployment frequency. Again, ship more smaller.
+
+#### Change Lead Time  <a name="dora-change-lead-time"></a>
+
+The key to Change Lead Time is to understand what composes change lead time. Change Lead Time as defined in DORA metrics is measured from the moment the developer starts working on a change to the moment that it shipped to production. But you can actually break that time down into buckets. For example, the time a developer's working on the change, that's one bucket. Or the time that your deployment process takes to push a change all the way out to production is another bucket. By looking at things in buckets, you can see what takes the most amount of time and work on optimizing that. Change Lead Time is a really important metric for your company, because what it's doing is it's measuring how quickly your team is able to respond to changing conditions, events, or needs. 
+
+Technically I found the biggest bucket in Change Lead Time is testing. Teams will often have test as a separate step in a release process, which means that you add days or even weeks to your change lead time. Instead of having it as a separate action, integrate your testing into your development process. Have your testers teach your developers how to write automated tests from the beginning so that you don't need a separate step. To improve your Change Lead Time, eliminate bottlenecks.
+
+#### Change Failure Rate  <a name="dora-cfr"></a>
+
+Change Failure Rate is simply the ratio of the number of deployments to the number of failures. But the key here is to define what is a failure. This particular DORA metric will be unique to you, your team, and your service. In fact, it will probably change over time as your team improves. The common mistake is to simply look at the total number of failures instead of the change failure rate. The problem with this is it will encourage the wrong type of behaviors. Our goal here is to ship change as quickly, and if you're simply looking at the total number of failures, your natural response is try to reduce the number of deployments so that you might have fewer incidences. 
+
+Technically, the key here is to get the developer involved in the production ideally doing the deployment. What you want, is when there is a failure, the developer is involved in production so that they understand the impact of their change and their failure, he can learn from it, creating a critical feedback loop so the developer ensures that this type of incident never happens again.
+
+#### Mean Time to Recovery (MTTR) <a name="dora-mttr"></a>
+
+MTTR is just one step in the incident response process. First, you need to detect there's even a problem. Once you've detected it, how quickly can you ship a change out? This is what MTTR focuses on.
+
+The time to detection is a metric in itself, typically known as MTTD or Mean Time to Discovery. If you can detect a problem immediately, you can take MTTD down to practically zero, and since MTTD is part of the calculation for MTTR, improving MTTD helps you improve MTTR.
+
+If you just focus on improving MTTR and none of the other ones, you'll often create these dirty, quick, ugly hacks to try to get the system up and going again. But often, those hacks will actually end up making the incident even worse. This is why it's critical that your team has a culture of shipping lots of changes quickly so that when an incident happens, shipping a fix quickly is natural. It's what they do anyways. That way, the incident won't get any worse.
+
+Technically, try Feature Flags. Feature Flags are toggles that allow you to turn a change on or off in production with a click of a button, so that if you have an incident with the change, you can click a button, turn it off, and reduce your MTTR down to seconds.
+
+#### Conclusion
+Don't focus on metrics. It's not about the metrics, it's about your team and its goals. Metrics are how your team knows how well they're progressing towards those goals, so don't focus on the metric, focus on your team and its goals. The key here is to remember it's really all about your development. Empower your developers. Give them the tools they need to succeed because your developers are going to be the ones to be able to make the best changes to help your team reach its goals.
 
 ## Additional Resources <a name="resources"></a>
 - [Collaborative Additional Resources](https://github.com/eduardomioto/effective-engineering/blob/main/RESOURCES.md)
@@ -318,6 +361,10 @@ Thanks goes to these people as well as our references.
 - [10] [Happiness and the productivity of software engineers. In Rethinking Productivity in Software Engineering, ed. C. Sadowski and T. Zimmermann, 109-124](https://link.springer.com/chapter/10.1007/978-1-4842-4221-6_10)
 - [11] [Towards a theory of software developer job satisfaction and perceived productivity. Storey, M. A., Zimmermann, T., Bird, C., Czerwonka, J., Murphy, B., Kalliamvakou, E. 2019](https://ieeexplore.ieee.org/document/8851296)
 - [12] [Reforge - Managing Tech Debt](https://www.reforge.com/blog/managing-tech-debt)
+- [13] [Dora Metrics Explained - Sleuth.io](https://www.sleuth.io/post/dora-metrics-explained)
+- [14] [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations | Nicole Forsgren, Jez Humble, Gene Kim / 1st edition - 2018)](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
+
+by 
 
 ## Inspirations <a name="inspirations"></a>
 - :star: [OkayHQ Effective Engineer Handbook](https://github.com/OkayHQ/ee-handbook/blob/main/content/en/resources.md)
