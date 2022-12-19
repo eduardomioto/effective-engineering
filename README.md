@@ -364,8 +364,6 @@ Thanks goes to these people as well as our references.
 - [13] [Dora Metrics Explained - Sleuth.io](https://www.sleuth.io/post/dora-metrics-explained)
 - [14] [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations | Nicole Forsgren, Jez Humble, Gene Kim / 1st edition - 2018)](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 
-by 
-
 ## Inspirations <a name="inspirations"></a>
 - :star: [OkayHQ Effective Engineer Handbook](https://github.com/OkayHQ/ee-handbook/blob/main/content/en/resources.md)
 - [Team Topologies Book - References](https://github.com/TeamTopologies/Team-Topologies-Book-References/blob/main/Team-Topologies-references-Markdown.md)
