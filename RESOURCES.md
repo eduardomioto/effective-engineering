@@ -37,6 +37,7 @@ A collaborative page about effective pratices on software enginering. Feel free 
 - [Improving Team Productivity by Reducing Context Switching](https://www.linkedin.com/pulse/improving-team-productivity-reducing-context-karen-casella/)
 - [Understand team effectiveness - Psychological safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/identify-dynamics-of-effective-teams/)
 - [Managing Cognitive Load for Team Learning](https://12devsofxmas.co.uk/2015/12/day-3-managing-cognitive-load-for-team-learning/)
+- [Re:Work Guide: Set goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
 
 ### Summary
 - [Summary from The Effective Engineer | Edmond Lau](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
