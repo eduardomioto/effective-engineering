@@ -25,7 +25,6 @@
 12. [References](#references)
 13. [Inspirations](#inspirations)
 
-
 ## The Effective Engineering <a name="effective-engineering"></a>
 
 In a broader scope, Effectiveness is the capability of producing a desired result or the ability to produce desired output. When something is deemed effective, it means it has an intended or expected outcome, or produces a deep, vivid impression.[1]
@@ -323,7 +322,6 @@ Technically, try Feature Flags. Feature Flags are toggles that allow you to turn
 #### Conclusion
 Don't focus on metrics. It's not about the metrics, it's about your team and its goals. Metrics are how your team knows how well they're progressing towards those goals, so don't focus on the metric, focus on your team and its goals. The key here is to remember it's really all about your development. Empower your developers. Give them the tools they need to succeed because your developers are going to be the ones to be able to make the best changes to help your team reach its goals. [13]
 
-
 ## Additional Resources <a name="resources"></a>
 - [Collaborative Additional Resources](https://github.com/eduardomioto/effective-engineering/blob/main/RESOURCES.md)
 
@@ -368,4 +366,3 @@ Thanks goes to these people as well as our references.
 ## Inspirations <a name="inspirations"></a>
 - :star: [OkayHQ Effective Engineer Handbook](https://github.com/OkayHQ/ee-handbook/blob/main/content/en/resources.md)
 - [Team Topologies Book - References](https://github.com/TeamTopologies/Team-Topologies-Book-References/blob/main/Team-Topologies-references-Markdown.md)
-
