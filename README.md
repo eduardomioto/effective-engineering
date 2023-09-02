@@ -319,6 +319,15 @@ If you just focus on improving MTTR and none of the other ones, you'll often cre
 
 Technically, try Feature Flags. Feature Flags are toggles that allow you to turn a change on or off in production with a click of a button, so that if you have an incident with the change, you can click a button, turn it off, and reduce your MTTR down to seconds. [13]
 
+## Value-Driven Engineering
+
+What benefits does software engineering produce? Consider the typical process of developing a feature, releasing it to users, and making adjustments. How does this cycle appear? Consider a startup where the software engineering team is fairly autonomous, empowered, and attentive to the needs of the market. In accordance with Kent Beck and Gergely Orosz [15], the typical development lifecyle is shown below.
+
+![Development Lifecyle](https://github.com/eduardomioto/effective-engineering/assets/3407254/e2719583-e53a-4b00-bd43-0797ca2a50ef)
+
+We start by deciding what to do next, and then we do it. This is the effort like planning, coding and so on. Through this effort, we produce tangible things like the feature itself, the code, design documents, etc. These are the output. Customers will behave differently as a result of this output, which is our outcome. For example, thanks to the feature they might get stuck less during the onboarding flow. As a result of this behavior change, we will see value flowing back to us like feedback, revenue, referrals. This is the impact [15].
+
+
 #### Conclusion
 Don't focus on metrics. It's not about the metrics, it's about your team and its goals. Metrics are how your team knows how well they're progressing towards those goals, so don't focus on the metric, focus on your team and its goals. The key here is to remember it's really all about your development. Empower your developers. Give them the tools they need to succeed because your developers are going to be the ones to be able to make the best changes to help your team reach its goals. [13]
 
@@ -362,6 +371,7 @@ Thanks goes to these people as well as our references.
 - [12] [Reforge - Managing Tech Debt](https://www.reforge.com/blog/managing-tech-debt)
 - [13] [Dora Metrics Explained - Sleuth.io](https://www.sleuth.io/post/dora-metrics-explained)
 - [14] [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations | Nicole Forsgren, Jez Humble, Gene Kim / 1st edition - 2018)](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
+- [15] [Measuring developer productivity? A response to McKinsey](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
 
 ## Inspirations <a name="inspirations"></a>
 - :star: [OkayHQ Effective Engineer Handbook](https://github.com/OkayHQ/ee-handbook/blob/main/content/en/resources.md)
