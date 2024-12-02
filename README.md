@@ -23,8 +23,9 @@
 9. [Supportive Practices](#practices)
    1. [Semantic Versioning](#versining)
    2. [Git Flow and Feature Branch](#gitflow)
-   3. [Environments Stability](#environment)
-   4. [Continuous Delivery](#cd)
+   3. [Feature Flags](#featureflags)
+   4. [Environments Stability](#environment)
+   5. [Continuous Delivery](#cd)
 10. [Resources](#resources)
 11. [Contributors](#contributors)
 12. [References](#references)
@@ -344,11 +345,17 @@ Don't focus on metrics. It's not about the metrics, it's about your team and its
 #### Git Flow and Feature Branch  <a name="gitflow"></a>
 - [Go to a dedicated article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/git-worflows.md)
 
+#### Feature Flags <a name="featureflags"></a>
+- [Go to a dedicated article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/feature-flags.md)
+
 #### Environments Stability <a name="environment"></a>
 - [Go to a dedicated article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/environment-stability.md)
 
 #### Continuous Delivery  <a name="cd"></a>
 - [Go to a dedicated article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/continuous-delivery.md)
+
+#### Architectural Decision Records (ADR)  <a name="cd"></a>
+- [Go to a dedicated article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/adr.md)
 
 ## Additional Resources <a name="resources"></a>
 - [Collaborative Additional Resources](https://github.com/eduardomioto/effective-engineering/blob/main/RESOURCES.md)
