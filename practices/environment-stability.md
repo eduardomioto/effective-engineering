@@ -11,7 +11,6 @@ When running the code locally, developers must validate it with the following:
 - Include linting and coverage checks in the build script.  
 - Enforce these checks via Git hooks, making them mandatory before code commits.  
 
----
 
 ## 2. Pull Request to Feature Branch  
 When a Pull Request (PR) is opened to merge changes into a feature branch, the following validations are executed:  
@@ -20,14 +19,13 @@ When a Pull Request (PR) is opened to merge changes into a feature branch, the f
 - **Security Validation**:  
   - Dependency vulnerability management tools like **Snyk** check for known vulnerabilities in the codebase.  
 
----
 
 ## 3. Development Branch Update  
 Once the feature branch is merged into the **development branch**, the code is:  
 - **Deployed to the Dev Environment**:  
   - This environment is used for initial integration and validation of the code changes.
 
----
+
 
 ## 4. Pull Request from Development Branch to Main Branch  
 When a PR is opened from the **development branch** to the **main branch**, the following tests and validations are triggered:  
@@ -36,7 +34,7 @@ When a PR is opened from the **development branch** to the **main branch**, the 
 - **Static Application Security Testing (SAST)**: Detect security vulnerabilities in the source code.  
 - **Dynamic Application Security Testing (DAST)**: Identify vulnerabilities in the running application.  
 
----
+
 
 ## 5. Main Branch Update  
 Once the development branch is merged into the **main branch**, the following occurs:  
@@ -44,7 +42,7 @@ Once the development branch is merged into the **main branch**, the following oc
   - Code is deployed in a staging environment that closely mirrors production.  
 - **End-to-End Validation**: Comprehensive testing of the entire system to ensure all components work together seamlessly.  
 
----
+
 
 ## Summary of Automated Tests and Validations  
 
