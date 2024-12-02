@@ -23,11 +23,12 @@
 9. [Supportive Practices](#practices)
    1. [Semantic Versioning](#versining)
    2. [Git Flow and Feature Branch](#gitflow)
-   3. [Feature Flags](#featureflags)
-   4. [Environments Stability](#environment)
-   5. [Continuous Delivery](#cd)
-   6. [Architectural Decision Records / ADR](#adr)
-   7. [Observability](#observability) 
+   3. [Progressive Delivery and Blue/Green Deployment](#progressivedelivery)
+   4. [Feature Flags](#featureflags)
+   5. [Environments Stability](#environment)
+   6. [Continuous Delivery](#cd)
+   7. [Architectural Decision Records / ADR](#adr)
+   8. [Observability](#observability) 
 10. [Resources](#resources)
 11. [Contributors](#contributors)
 12. [References](#references)
@@ -346,6 +347,9 @@ Don't focus on metrics. It's not about the metrics, it's about your team and its
 
 #### Git Flow and Feature Branch  <a name="gitflow"></a>
 - [Go to a dedicated article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/git-worflows.md)
+
+#### Progressive Delivery and Blue/Green Deployment <a name="progressivedelivery"></a>
+- [Go to a dedicated article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/progressive-delivery.md)
 
 #### Feature Flags <a name="featureflags"></a>
 - [Go to a dedicated article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/feature-flags.md)
