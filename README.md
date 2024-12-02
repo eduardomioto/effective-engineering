@@ -20,6 +20,11 @@
     1. [SPACE: A Framework for Understanding Developer Productivity](#space-framework)
 8. [Supportive Metrics](#supportive)
    1. [DORA Metrics](#dora)
+9. [Supportive Practices](#practices)
+   1. [Semantic Versioning](#versining)
+   2. [Git Flow and Feature Branch](#gitflow)
+   3. [Environments Stability](#environment)
+   4. [Continuous Delivery](#cd)
 10. [Resources](#resources)
 11. [Contributors](#contributors)
 12. [References](#references)
@@ -330,6 +335,20 @@ We start by deciding what to do next, and then we do it. This is the effort like
 
 #### Conclusion
 Don't focus on metrics. It's not about the metrics, it's about your team and its goals. Metrics are how your team knows how well they're progressing towards those goals, so don't focus on the metric, focus on your team and its goals. The key here is to remember it's really all about your development. Empower your developers. Give them the tools they need to succeed because your developers are going to be the ones to be able to make the best changes to help your team reach its goals. [13]
+
+## Supportive Practices <a name="practices"></a>
+
+#### Semantic Versioning <a name="versining"></a>
+- [Go to a dedicated article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/semantic-versioning.md)
+
+#### Git Flow and Feature Branch  <a name="gitflow"></a>
+- [Go to a dedicated article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/git-worflows.md)
+
+#### Environments Stability <a name="environment"></a>
+- [Go to a dedicated article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/environment-stability.md)
+
+#### Continuous Delivery  <a name="cd"></a>
+- [Go to a dedicated article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/continuous-delivery.md)
 
 ## Additional Resources <a name="resources"></a>
 - [Collaborative Additional Resources](https://github.com/eduardomioto/effective-engineering/blob/main/RESOURCES.md)
