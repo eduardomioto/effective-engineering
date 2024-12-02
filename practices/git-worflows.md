@@ -19,7 +19,6 @@ Gitflow is a branching model for Git that provides a structured workflow for man
 5. The release branch undergoes final testing, and once approved, it is merged into both `main` and `develop`.
 6. In case of critical issues on `main`, a **hotfix branch** is created, resolved, and merged back into both `main` and `develop`.
 
----
 
 ## What is a Feature Branch Workflow?
 
@@ -31,7 +30,6 @@ The feature branch workflow is a branching strategy where all new features or ch
 3. **Pull Request**: Once the feature is complete, a pull request is created for review.
 4. **Merge**: After approval, the feature branch is merged into the target branch (usually `develop`).
 
----
 
 ## Benefits of Gitflow and Feature Branch Workflow
 
@@ -58,7 +56,6 @@ The feature branch workflow is a branching strategy where all new features or ch
 ### 6. **Encourages Iterative Development**
    - Developers can focus on one feature at a time, leading to better-designed and more maintainable code.
 
----
 
 ## How Gitflow and Feature Branches Impact Stability
 
@@ -67,8 +64,6 @@ The feature branch workflow is a branching strategy where all new features or ch
 3. **Efficient Hotfixes**: Urgent issues can be resolved without disrupting ongoing work.
 4. **Clear Release Cadence**: Stable release branches allow for predictable and reliable deployments.
 5. **Reduced Risk of Errors**: Changes are incrementally integrated, minimizing the chances of major regressions.
-
----
 
 ## Conclusion
 
