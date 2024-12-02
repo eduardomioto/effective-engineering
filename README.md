@@ -26,7 +26,7 @@
    3. [Feature Flags](#featureflags)
    4. [Environments Stability](#environment)
    5. [Continuous Delivery](#cd)
-   6. [Architectural Decision Records (ADR)(#adr)
+   6. [Architectural Decision Records / ADR](#adr)
 10. [Resources](#resources)
 11. [Contributors](#contributors)
 12. [References](#references)
