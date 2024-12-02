@@ -4,8 +4,8 @@ This document outlines the flow of code through the development environments: de
 
 ## 1. Running Locally  
 When running the code locally, developers must validate it with the following:  
-- **Linting**: Ensures code adheres to defined best practices and style guidelines.  
-- **Code Coverage**: Verifies unit tests cover the intended portions of the codebase.  
+- *Linting*: Ensures code adheres to defined best practices and style guidelines.  
+- *Code Coverage*: Verifies unit tests cover the intended portions of the codebase.  
 
 ### Recommended Practices:  
 - Include linting and coverage checks in the build script.  
@@ -14,33 +14,33 @@ When running the code locally, developers must validate it with the following:
 
 ## 2. Pull Request to Feature Branch  
 When a Pull Request (PR) is opened to merge changes into a feature branch, the following validations are executed:  
-- **Best Practices and Unit Test Validation**:  
-  - Tools such as **SonarQube** or **Codacy** are used to ensure adherence to coding standards and robust unit test coverage.  
-- **Security Validation**:  
-  - Dependency vulnerability management tools like **Snyk** check for known vulnerabilities in the codebase.  
+- *Best Practices and Unit Test Validation*:  
+  - Tools such as *SonarQube* or *Codacy* are used to ensure adherence to coding standards and robust unit test coverage.  
+- *Security Validation*:  
+  - Dependency vulnerability management tools like *Snyk* check for known vulnerabilities in the codebase.  
 
 
 ## 3. Development Branch Update  
-Once the feature branch is merged into the **development branch**, the code is:  
-- **Deployed to the Dev Environment**:  
+Once the feature branch is merged into the *development branch*, the code is:  
+- *Deployed to the Dev Environment*:  
   - This environment is used for initial integration and validation of the code changes.
 
 
 
 ## 4. Pull Request from Development Branch to Main Branch  
-When a PR is opened from the **development branch** to the **main branch**, the following tests and validations are triggered:  
-- **Integrated Tests**: Ensure the system works cohesively.  
-- **Performance Validation**: Verify the system meets performance requirements under typical and peak conditions.  
-- **Static Application Security Testing (SAST)**: Detect security vulnerabilities in the source code.  
-- **Dynamic Application Security Testing (DAST)**: Identify vulnerabilities in the running application.  
+When a PR is opened from the *development branch* to the *main branch*, the following tests and validations are triggered:  
+- *Integrated Tests*: Ensure the system works cohesively.  
+- *Performance Validation*: Verify the system meets performance requirements under typical and peak conditions.  
+- *Static Application Security Testing (SAST)*: Detect security vulnerabilities in the source code.  
+- *Dynamic Application Security Testing (DAST)*: Identify vulnerabilities in the running application.  
 
 
 
 ## 5. Main Branch Update  
-Once the development branch is merged into the **main branch**, the following occurs:  
-- **Deployed to Staging Environment**:  
+Once the development branch is merged into the *main branch*, the following occurs:  
+- *Deployed to Staging Environment*:  
   - Code is deployed in a staging environment that closely mirrors production.  
-- **End-to-End Validation**: Comprehensive testing of the entire system to ensure all components work together seamlessly.  
+- *End-to-End Validation*: Comprehensive testing of the entire system to ensure all components work together seamlessly.  
 
 
 
