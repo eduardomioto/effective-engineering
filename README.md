@@ -27,6 +27,7 @@
    4. [Environments Stability](#environment)
    5. [Continuous Delivery](#cd)
    6. [Architectural Decision Records / ADR](#adr)
+   7. [Observability](#observability) 
 10. [Resources](#resources)
 11. [Contributors](#contributors)
 12. [References](#references)
@@ -357,6 +358,9 @@ Don't focus on metrics. It's not about the metrics, it's about your team and its
 
 #### Architectural Decision Records (ADR)  <a name="adr"></a>
 - [Go to a dedicated article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/adr.md)
+
+#### Observability  <a name="observability"></a>
+- [Go to a dedicated article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/observability.md)
 
 ## Additional Resources <a name="resources"></a>
 - [Collaborative Additional Resources](https://github.com/eduardomioto/effective-engineering/blob/main/RESOURCES.md)
