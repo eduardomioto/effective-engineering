@@ -342,16 +342,16 @@ Don't focus on metrics. It's not about the metrics, it's about your team and its
 
 ## Supportive Practices <a name="practices"></a>
 
-| Practice                                | Link                                                                                   | Brief Explanation                                                                                                 |
-|-----------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| **Semantic Versioning**                 | [Article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/semantic-versioning.md) | Describes how to version software using a structured format to indicate changes in a way that is predictable.     |
-| **Git Flow and Feature Branch**         | [Article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/git-worflows.md)        | Introduces Git Flow and Feature Branch workflows to manage code changes and collaboration in a Git-based project. |
-| **Progressive Delivery and Blue/Green Deployment** | [Article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/progressive-delivery.md) | Explains the concept of Progressive Delivery and using Blue/Green deployments for safer software releases.       |
-| **Feature Flags**                       | [Article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/feature-flags.md)       | Covers the use of feature flags to enable or disable functionality dynamically without deploying new code.       |
-| **Environments Stability**              | [Article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/environment-stability.md) | Focuses on maintaining stable and reliable environments for development, testing, and production.               |
-| **Continuous Delivery**                 | [Article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/continuous-delivery.md)  | Describes automating software delivery processes for faster, more reliable releases.                            |
-| **Architectural Decision Records (ADR)**| [Article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/adr.md)                | Explains how to document and track architectural decisions for better communication and future reference.        |
-| **Observability**                       | [Article](https://github.com/eduardomioto/effective-engineering/blob/main/practices/observability.md)       | Discusses practices and tools for monitoring and understanding the behavior of software systems.                 |
+| Practice                                | Brief Explanation                                                                                                 |
+|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| [Semantic Versioning](https://github.com/eduardomioto/effective-engineering/blob/main/practices/semantic-versioning.md) | Describes how to version software using a structured format to indicate changes in a way that is predictable.     |
+| [Git Flow and Feature Branch](https://github.com/eduardomioto/effective-engineering/blob/main/practices/git-worflows.md)        | Introduces Git Flow and Feature Branch workflows to manage code changes and collaboration in a Git-based project. |
+| [Progressive Delivery and Blue/Green Deployment](https://github.com/eduardomioto/effective-engineering/blob/main/practices/progressive-delivery.md) | Explains the concept of Progressive Delivery and using Blue/Green deployments for safer software releases.       |
+| [Feature Flags](https://github.com/eduardomioto/effective-engineering/blob/main/practices/feature-flags.md)       | Covers the use of feature flags to enable or disable functionality dynamically without deploying new code.       |
+| [Environments Stability](https://github.com/eduardomioto/effective-engineering/blob/main/practices/environment-stability.md) | Focuses on maintaining stable and reliable environments for development, testing, and production.               |
+| [Continuous Delivery](https://github.com/eduardomioto/effective-engineering/blob/main/practices/continuous-delivery.md)  | Describes automating software delivery processes for faster, more reliable releases.                            |
+| [Architectural Decision Records](https://github.com/eduardomioto/effective-engineering/blob/main/practices/adr.md)                | Explains how to document and track architectural decisions for better communication and future reference.        |
+| [Observability](https://github.com/eduardomioto/effective-engineering/blob/main/practices/observability.md)       | Discusses practices and tools for monitoring and understanding the behavior of software systems.                 |
 
 ## Additional Resources <a name="resources"></a>
 - [Collaborative Additional Resources](https://github.com/eduardomioto/effective-engineering/blob/main/RESOURCES.md)
