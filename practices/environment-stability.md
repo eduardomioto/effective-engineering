@@ -25,7 +25,7 @@ flowchart LR
 
  subgraph FeatureBranch
     B1[Best Practices and Unit Test Validation]
-    B2[Security Validation]
+    B2[Blackduck Validation]
     B3[Deployed to Dev Environment]
     B --> B1
     B --> B2    
