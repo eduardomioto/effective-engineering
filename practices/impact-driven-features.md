@@ -17,11 +17,8 @@ The impact-effort matrix is a tool used to visualize and prioritize tasks based 
 3. **Fill-Ins**: Low impact, low effort. These tasks can be done if there is extra time.
 4. **Thankless Tasks**: Low impact, high effort. These tasks should be deprioritized or avoided.
 
-### Example Matrix
-|                | Low Effort          | High Effort         |
-|----------------|---------------------|---------------------|
-| **High Impact**| Quick Wins          | Major Projects      |
-| **Low Impact** | Fill-Ins            | Thankless Tasks     |
+![Impact-Effort Matrix](https://plaky.com/blog/wp-content/uploads/2024/04/Impact-effort-matrix.png)
+
 
 ## Implementation Steps
 1. **Identify Potential Features**: List all potential features or tasks.
