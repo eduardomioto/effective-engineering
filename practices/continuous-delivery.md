@@ -6,62 +6,11 @@ DORA research found that the following technical capabilities drive the ability 
 
 To help your team get higher throughput and lower risk releases, implement the following continuous delivery practices: [1]
 
-```mermaid
-mindmap
-    root((Continuous Delivery))
-        TestAutomation
-            - Comprehensive automated test suites
-            - Reliable tests
-        DeploymentAutomation
-            - Fully automated deployments
-            - No manual intervention
-        TrunkBasedDevelopment
-            - Fewer than three active branches
-            - Short-lived branches
-            - No code lock periods
-        ShiftLeftOnSecurity
-            - Integrate security in design and testing
-            - Security reviews and pre-approved libraries
-        LooselyCoupledArchitecture
-            - Independent testing and deployment
-            - Teams work independently
-        EmpoweringTeamsToChooseTools
-            - Teams choose their tools
-        ContinuousIntegration
-            - Regular code check-ins
-            - Quick tests for regressions
-        ContinuousTesting
-            - Testing throughout lifecycle
-            - Test-driven development
-        VersionControl
-            - Use of version control systems
-        TestDataManagement
-            - Adequate data for tests
-            - Minimize test data needed
-        ComprehensiveMonitoringAndObservability
-            - Monitor system health
-            - Interactive debugging
-        ProactiveNotifications
-            - Preemptively detect problems
-        DatabaseChangeManagement
-            - Store changes as scripts
-            - Communicate changes
-        CodeMaintainability
-            - Easy to change and reuse code
-            - Upgrade dependencies without breaking code
-```
-
 - Test automation: The use of comprehensive automated test suites primarily created and maintained by developers. Effective test suites are reliable—that is, tests find real failures and only pass releasable code.
 
 - Deployment automation: The degree to which deployments are fully automated and do not require manual intervention.
 
-- Trunk-based development: Characterized by fewer than three active branches in a code repository; branches and forks having very short lifetimes (e.g., less than a day) before being merged into mainline; and application teams rarely or never having code lock periods when no one can check in code or do pull requests due to merging conflicts, code freezes, or stabilization phases.
-
-- Shift left on security: Integrating security into the design and testing phases of the software development process. This process includes conducting security reviews of applications, including the information security team in the design and demonstration process for applications, using pre-approved security libraries and packages, and testing security features as a part of the automated test suite.
-
 - A loosely coupled architecture: Architecture that lets teams test and deploy their applications on demand, without requiring orchestration with other services. Having a loosely coupled architecture allows your teams to work independently without relying on other teams for support and services, which in turn enables them to work quickly and deliver value to the organization.
-
-- Empowering teams to choose tools: Teams that can choose which tools to use do better at continuous delivery. No one knows better than practitioners what they need to be effective.
 
 - Continuous integration (CI): A development practice where code is regularly checked in, and each check-in triggers a set of quick tests to discover regressions, which developers fix immediately. The CI process creates canonical builds and packages that are ultimately deployed and released.
 
