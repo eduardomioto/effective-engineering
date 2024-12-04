@@ -29,3 +29,6 @@ The impact-effort matrix is a tool used to visualize and prioritize tasks based 
 
 ## Conclusion
 The impact-driven prioritization method helps teams with limited resources to focus on the most valuable work, ensuring that their efforts have the greatest possible impact on the business. By using tools like the impact-effort matrix, teams can make informed decisions and prioritize effectively.
+
+## References
+- [How to Use Impact Effort Matrix for Improved Prioritization](https://plaky.com/blog/impact-effort-matrix/)
