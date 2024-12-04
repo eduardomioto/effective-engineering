@@ -6,6 +6,51 @@ DORA research found that the following technical capabilities drive the ability 
 
 To help your team get higher throughput and lower risk releases, implement the following continuous delivery practices: [1]
 
+```mermaid
+mindmap
+    root((Continuous Delivery))
+        TestAutomation
+            - Comprehensive automated test suites
+            - Reliable tests
+        DeploymentAutomation
+            - Fully automated deployments
+            - No manual intervention
+        TrunkBasedDevelopment
+            - Fewer than three active branches
+            - Short-lived branches
+            - No code lock periods
+        ShiftLeftOnSecurity
+            - Integrate security in design and testing
+            - Security reviews and pre-approved libraries
+        LooselyCoupledArchitecture
+            - Independent testing and deployment
+            - Teams work independently
+        EmpoweringTeamsToChooseTools
+            - Teams choose their tools
+        ContinuousIntegration
+            - Regular code check-ins
+            - Quick tests for regressions
+        ContinuousTesting
+            - Testing throughout lifecycle
+            - Test-driven development
+        VersionControl
+            - Use of version control systems
+        TestDataManagement
+            - Adequate data for tests
+            - Minimize test data needed
+        ComprehensiveMonitoringAndObservability
+            - Monitor system health
+            - Interactive debugging
+        ProactiveNotifications
+            - Preemptively detect problems
+        DatabaseChangeManagement
+            - Store changes as scripts
+            - Communicate changes
+        CodeMaintainability
+            - Easy to change and reuse code
+            - Upgrade dependencies without breaking code
+```
+
 - Test automation: The use of comprehensive automated test suites primarily created and maintained by developers. Effective test suites are reliable—that is, tests find real failures and only pass releasable code.
 
 - Deployment automation: The degree to which deployments are fully automated and do not require manual intervention.
