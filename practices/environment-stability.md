@@ -2,6 +2,46 @@
 
 This document outlines the flow of code through the development environments: dev, staging, and production. It also describes the automated tests and validations that must be performed at each stage to ensure code quality, security, and reliability.
 
+```mermaid
+
+flowchart LR
+  A[Running Locally] --> B[PR to Feature Branch]
+  B --> D[PR to Main Branch]
+
+  subgraph MainBranch
+    D1[Integrated Tests]
+    D2[Performance Validation]
+    D3[SAST]
+    D4[DAST]
+    D5[Deployed to Staging Environment]
+    D6[End-to-End Validation]
+    D --> D1
+    D --> D2
+    D --> D3
+    D --> D4   
+    D --> D5
+    D --> D6
+  end
+
+ subgraph FeatureBranch
+    B1[Best Practices and Unit Test Validation]
+    B2[Security Validation]
+    B3[Deployed to Dev Environment]
+    B --> B1
+    B --> B2    
+    B --> B3
+  end
+
+
+  subgraph Local
+    A1[Linting]
+    A2[Code Coverage]
+    A --> A1
+    A --> A2
+  end
+
+```
+
 ## 1. Running Locally  
 When running the code locally, developers must validate it with the following:  
 - *Linting*: Ensures code adheres to defined best practices and style guidelines.  
