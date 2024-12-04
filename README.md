@@ -344,6 +344,7 @@ Don't focus on metrics. It's not about the metrics, it's about your team and its
 
 | Practice                                | Brief Explanation                                                                                                 |
 |-----------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| [Feature Teams](https://github.com/eduardomioto/effective-engineering/blob/main/practices/feature-teams.md)       | Feature teams are cross-functional teams responsible for the end-to-end delivery of a specific feature.                  |
 | [Semantic Versioning](https://github.com/eduardomioto/effective-engineering/blob/main/practices/semantic-versioning.md) | Describes how to version software using a structured format to indicate changes in a way that is predictable.     |
 | [Git Flow and Feature Branch](https://github.com/eduardomioto/effective-engineering/blob/main/practices/git-worflows.md)        | Introduces Git Flow and Feature Branch workflows to manage code changes and collaboration in a Git-based project. |
 | [Progressive Delivery and Blue/Green Deployment](https://github.com/eduardomioto/effective-engineering/blob/main/practices/progressive-delivery.md) | Explains the concept of Progressive Delivery and using Blue/Green deployments for safer software releases.       |
@@ -352,7 +353,6 @@ Don't focus on metrics. It's not about the metrics, it's about your team and its
 | [Continuous Delivery](https://github.com/eduardomioto/effective-engineering/blob/main/practices/continuous-delivery.md)  | Describes automating software delivery processes for faster, more reliable releases.                            |
 | [Architectural Decision Records](https://github.com/eduardomioto/effective-engineering/blob/main/practices/adr.md)                | Explains how to document and track architectural decisions for better communication and future reference.        |
 | [Observability](https://github.com/eduardomioto/effective-engineering/blob/main/practices/observability.md)       | Discusses practices and tools for monitoring and understanding the behavior of software systems.                 |
-| [Feature Teams](https://github.com/eduardomioto/effective-engineering/blob/main/practices/feature-teams.md)       | Feature teams are cross-functional teams responsible for the end-to-end delivery of a specific feature.                  |
 
 
 ## Additional Resources <a name="resources"></a>
