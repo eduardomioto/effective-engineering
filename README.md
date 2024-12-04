@@ -352,6 +352,8 @@ Don't focus on metrics. It's not about the metrics, it's about your team and its
 | [Continuous Delivery](https://github.com/eduardomioto/effective-engineering/blob/main/practices/continuous-delivery.md)  | Describes automating software delivery processes for faster, more reliable releases.                            |
 | [Architectural Decision Records](https://github.com/eduardomioto/effective-engineering/blob/main/practices/adr.md)                | Explains how to document and track architectural decisions for better communication and future reference.        |
 | [Observability](https://github.com/eduardomioto/effective-engineering/blob/main/practices/observability.md)       | Discusses practices and tools for monitoring and understanding the behavior of software systems.                 |
+| [Feature Teams](https://github.com/eduardomioto/effective-engineering/blob/main/practices/feature-teams.md)       | Feature teams are cross-functional teams responsible for the end-to-end delivery of a specific feature.                  |
+
 
 ## Additional Resources <a name="resources"></a>
 - [Collaborative Additional Resources](https://github.com/eduardomioto/effective-engineering/blob/main/RESOURCES.md)
