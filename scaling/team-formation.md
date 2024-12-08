@@ -2,7 +2,8 @@
 
 As a startup progresses from inception to maturity, its engineering team must evolve to meet the changing needs of the business. Each stage of a company's growth requires different team structures, leadership, and focus areas to ensure success. Below, we break down the ideal engineering team formation and size for each stage of the company's lifecycle.
 
-![scaling_enterprises](https://github.com/user-attachments/assets/2d4a6f8a-d1c8-4d18-a8f9-1d3f2062633a)
+![scaling_enterprises_light](https://github.com/user-attachments/assets/019c54c4-fe2b-4734-8bf7-1dedc23861c1)
+
 _Copyright to Eduardo Mioto_
 
 ## 1. Seed Stage
