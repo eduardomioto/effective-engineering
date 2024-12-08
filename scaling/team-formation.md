@@ -34,7 +34,6 @@ At the seed stage, the startup is still in its infancy, focusing on validating t
 ### Team Composition:
 At this stage, the startup has achieved some product-market fit and is focused on scaling the product, acquiring customers, and growing the team. The engineering team begins to specialize as the product evolves.
 
-- **Engineering Manager/Tech Lead**: Responsible for overseeing the engineering team and ensuring technical direction aligns with business goals.
 - **Backend Developers**: Focused on scaling the backend, handling performance issues, and building robust infrastructure.
 - **Frontend Developers**: Dedicated to improving the user interface and ensuring a smooth user experience.
 - **QA Engineers**: Startups at this stage often require dedicated quality assurance resources to ensure product stability.
@@ -47,7 +46,7 @@ At this stage, the startup has achieved some product-market fit and is focused o
 ### Focus:
 - Scaling the product and building new features.
 - Enhancing product stability and performance.
-- Establishing development processes (e.g., version control, CI/CD).
+- Establishing development processes (e.g., CI/CD, feature branches, feature flags).
 
 ### Key Challenge:
 - Balancing new feature development with the need for system scalability and stability.
@@ -60,6 +59,7 @@ At this stage, the startup has achieved some product-market fit and is focused o
 ### Team Composition:
 At the Series B stage, the startup is growing rapidly, and the engineering team needs to scale in order to support the company’s expanding product and user base. The team becomes more structured, with dedicated roles for different functions.
 
+- **Engineering Manager/Tech Lead**: Responsible for overseeing the engineering team and ensuring technical direction aligns with business goals.
 - **Engineering Director**: Oversees multiple engineering teams and ensures alignment with company goals.
 - **Engineering Managers**: Lead sub-teams (e.g., frontend, backend, mobile) and ensure efficient project delivery.
 - **Senior Engineers**: Experienced engineers who guide the team, mentor junior developers, and lead complex projects.
@@ -73,11 +73,11 @@ At the Series B stage, the startup is growing rapidly, and the engineering team 
 ### Focus:
 - Scaling the product and infrastructure.
 - Expanding features to support new markets and customers.
-- Improving internal processes, including code quality, testing, and documentation.
+- Improving internal processes, including code quality, automatted testing, and documentation.
 
 ### Key Challenge:
 - Managing increasing complexity while maintaining a high standard of engineering quality.
-   Assertiveness on feature prioritization is key, but you can make some research and development. Investing some money and time on unknowns. 
+- Assertiveness on feature prioritization is key, but you can make some research and development. Investing some money and time on unknowns. 
 
 ---
 
@@ -91,8 +91,6 @@ By the time a company reaches Series C and beyond, the engineering organization 
 - **Staff Engineers and Principals**: Highly experienced engineers who drive technical direction, lead large projects, and mentor other engineers.
 - **DevOps/Cloud Engineers**: Ensure systems are scalable and reliable, and that cloud services are optimized.
 - **Security & Compliance Engineers**: Ensure that security and compliance are top priorities, especially in handling user data and regulatory concerns.
-- **Performance Engineers**: Focus on optimizing the product for high-volume usage and ensuring robust performance under stress.
-- **Technical Writers**: As the company grows, documentation becomes essential for onboarding and knowledge sharing.
 
 ### Engineering Team Size:
 - **25+ engineers**, with multiple sub-teams and roles across frontend, backend, infrastructure, security, performance, data, and more.
@@ -113,8 +111,8 @@ By the time a company reaches Series C and beyond, the engineering organization 
 | **Stage**          | **Team Size** | **Key Roles**                                | **Focus**                                              |
 |--------------------|---------------|----------------------------------------------|--------------------------------------------------------|
 | **Seed Stage**     | 1 to 3        | Founders, Full-Stack Developers, Designer    | MVP, Rapid Iteration, Product-Market Fit               |
-| **Series A**       | 5 to 10       | Engineering Manager, Backend/Frontend Devs, QA, DevOps | Scaling Product, Performance, Process Establishment    |
-| **Series B**       | 10 to 25      | Engineering Director, Senior Engineers, Data, Security, UX/UI | Scaling Systems, Expanding Features, Internal Processes|
+| **Series A**       | 5 to 10       | Backend/Frontend Devs, QA, DevOps | Scaling Product, Performance, Process Establishment    |
+| **Series B**       | 10 to 25      | Engineering Manager, Engineering Director, Senior Engineers, Data, Security, UX/UI | Scaling Systems, Expanding Features, Internal Processes|
 | **Series C+**      | 25+           | VP/CTO, Engineering Managers, Staff Engineers, Security, Performance | Global Expansion, Scaling, Security, IPO Preparation   |
 
 ---
